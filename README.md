@@ -10,7 +10,7 @@ This is my log for the 100 Days of Code Challenge, where I commit to code for at
 
 Here's my progress so far:
 
-[![100 Days of Code Progress](https://img.shields.io/static/v1?label=Progress&message=1%25&color=brightgreen)](https://github.com/ogabriel-pro/Challenge-100-Days-ofSwiftUI)
+[![100 Days of Code Progress](https://img.shields.io/static/v1?label=Progress&message=62%25&color=brightgreen)](https://github.com/ogabriel-pro/Challenge-100-Days-ofSwiftUI)
 
 - [x] Day 1 ✅
 - [x] Day 2 ✅
